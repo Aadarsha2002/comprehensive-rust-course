@@ -1,0 +1,1 @@
+C:\Users\adurs\source\repos\repos\comprehensive-rust-course\arrays-and-for-loops\target\debug\arrays-and-for-loops.exe: C:\Users\adurs\source\repos\repos\comprehensive-rust-course\arrays-and-for-loops\src\main.rs
