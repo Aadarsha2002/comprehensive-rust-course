@@ -1,0 +1,1 @@
+C:\Users\adurs\source\repos\repos\comprehensive-rust-course\implicit-conversions\target\debug\implicit-conversions.exe: C:\Users\adurs\source\repos\repos\comprehensive-rust-course\implicit-conversions\src\main.rs
