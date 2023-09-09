@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("You are in the source directory of the project.");
 }
