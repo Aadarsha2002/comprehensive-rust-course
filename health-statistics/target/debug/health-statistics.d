@@ -1,0 +1,1 @@
+C:\Users\adurs\source\repos\repos\comprehensive-rust-course\health-statistics\target\debug\health-statistics.exe: C:\Users\adurs\source\repos\repos\comprehensive-rust-course\health-statistics\src\main.rs
