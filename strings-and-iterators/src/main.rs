@@ -46,4 +46,6 @@ pub fn prefix_matches(prefix: &str, request_path: &str) -> bool {
             None => return false,
         }
     }
+
+    return true;
 }
